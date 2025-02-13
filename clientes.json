@@ -1,0 +1,10 @@
+{
+    "clientes": [
+        {
+            "nombre ": "Juan",
+            "Direccion ": "Carrera 14",
+            "Contacto ": "31708253543",
+            "Servicio": "fibra optica"
+        }
+    ]
+}
